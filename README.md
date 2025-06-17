@@ -4,7 +4,7 @@ A responsive and lightweight calculator web app built using **HTML**, **CSS**, a
 
 ## 📸 Live Demo
 
-🔗 [View Calculator Live](#) <!-- Replace with your live link -->
+🔗 https://jayeshkarale.github.io/Web-Calculator/
 
 ---
 
