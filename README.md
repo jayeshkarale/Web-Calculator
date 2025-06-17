@@ -1,36 +1,38 @@
-# Web-Calculator
+# 🔢 Web-Calculator by Jayesh Karale
 
-This is a personal portfolio website built using **HTML** and **CSS**. It showcases my skills, projects, and contact information in a clean and responsive layout.
+A responsive and lightweight calculator web app built using **HTML**, **CSS**, and **JavaScript**. It includes basic arithmetic operations and a dark mode toggle for better accessibility.
 
-## ✨ Features
+## 📸 Live Demo
 
-- 🔥 Clean and modern UI
-- 🎯 Responsive layout for all devices
-- 💼 About Me & Skills sections
-- 🛠️ Project cards (dynamic placeholders)
-- 📬 Contact Form layout
-- 🔗 Social media integration
-- ❤️ Built with HTML & CSS only (no frameworks)
+🔗 [View Calculator Live](#) <!-- Replace with your live link -->
 
+---
 
-## 🔗 Live Preview
+## 🚀 Features
 
-https://jayeshkarale.github.io/portfolio-website/
+- 🧮 Basic arithmetic operations: Add, Subtract, Multiply, Divide
+- 🌓 Dark Mode toggle
+- 🧹 Clear and Delete functionality
+- ✅ Responsive layout for desktop and mobile
+- 🎨 Clean and modern UI
 
-## 🧰 Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - HTML5  
 - CSS3  
-- Google Fonts  
-- Font Awesome Icons
+- JavaScript (vanilla)
 
-## 📂 Folder Structure
-│
+---
+
+## 📁 Project Structure
+
+simple-calculator/
 ├── index.html
-├── style.css
-├── assets/
-│ ├── images/
-│ └── icons/
+├── styles.css
+├── script.js
+
 
 🧑‍💻 Author
 Website Developer - Jayesh Karale
