@@ -1,4 +1,4 @@
-# 🔢 Web-Calculator by Jayesh Karale
+# 🔢 Web-Calculator
 
 A responsive and lightweight calculator web app built using **HTML**, **CSS**, and **JavaScript**. It includes basic arithmetic operations and a dark mode toggle for better accessibility.
 
